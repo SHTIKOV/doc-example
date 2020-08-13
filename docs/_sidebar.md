@@ -1,7 +1,7 @@
 <!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
-- [Home](/#docsify-js-template-homepage)
-- [Fizz]()
-- [Buzz]()
+- [Home](/#мой-персональный-блог)
+- [Fizz](/#мой-персональный-блог)
+- [Buzz](/#мой-персональный-блог)
 - Foo
-    * [Bar](...)
-    * [Baz](...)
+    * [Bar](/#мой-персональный-блог)
+    * [Baz](/#мой-персональный-блог)
